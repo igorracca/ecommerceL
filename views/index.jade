@@ -1,0 +1,10 @@
+a(href="/products") Products
+div
+  form(action='/login',method='post')
+    div(data-role='fieldcontain')
+      label(for='username') username
+         input(id='username',type='text',value='',name='username')
+    div(data-role='fieldcontain')
+      label(for='password') password
+         input(id='password',type='password',value='',name='password') 
+      input(type='submit',value='Login',data-transition='fade', data-theme='c')
