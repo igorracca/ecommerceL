@@ -5,7 +5,7 @@
 - npm start
 - open the browser at localhost:3000
 
-**tools**
+**tools used**
 - express js
 - mongoose
 - validator https://github.com/chriso/validator.js
