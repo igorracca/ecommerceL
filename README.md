@@ -9,7 +9,7 @@ First make sure that you have installed:
 1.  [Node.js] (https://nodejs.org/en/download/) <br> 
 2.  [Express.js] (https://expressjs.com/) <br> Assuming you've already installed Node.js, type: `npm install mongoose`
 3.  [MongoDB] (https://www.mongodb.com/download-center#community) <br> 
-4.  [Mongoose] (https://www.npmjs.com/package/mongoose) <br> type `npm install mongoose` 
+4.  [Mongoose] (https://www.npmjs.com/package/mongoose) <br> Assuming you've already installed Node.js, type: `npm install mongoose` 
 
 ## Running the program
 
@@ -22,10 +22,12 @@ In the terminam, go to ecommerceL directory and type:
 Open a browser window and go to:
 > http://localhost:3000
 
-The login is a bonus feature. To add a product, you have to log in. The user and password are:
+The login is a bonus feature. To add a product, you have to log in. 
+The user and password are:
 > admin, admin
 
-To filter the products by category, type the category after products, for example:
+To filter the products by category, type the category after /products/.
+For example:
 > http://localhost:3000/products/c1
 
 -----------
