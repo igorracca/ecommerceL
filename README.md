@@ -1,5 +1,5 @@
 # E-commerce do L 
-
+**As telas se encontram no PDF dentro do repositorio ou neste [Link] (https://github.com/igorracca/ecommerceL/blob/master/telasUX.pdf)**
 -----------
 
 ## Installation 
